@@ -7,7 +7,7 @@ import org.springframework.context.ConfigurableApplicationContext;
 @SpringBootApplication
 public class FormBasedSpringMvcAppApplication {
 
-             System.out.println("Form Based Spring Mvc App ....!);
+             System.out.println("Welcome to My First Form Based Spring Mvc App ....!);
 
 	public static void main(String[] args) {
 		ConfigurableApplicationContext context = SpringApplication.run(FormBasedSpringMvcAppApplication.class, args);
